@@ -12,6 +12,6 @@
   <p><a href="https://github.com/Sant-TIG">-santiago</a>, helped me with the README.me</p>
   <p><a href="https://www.instagram.com/ceciarmy/?hl=es">-ceciarmy</a>, por ser una persona increible</p>
   <p>-and everybody else that I forgot to mention</p>
-  <p><h2 style="text-align: center;><3></h2></p>
+  <h2 style="text-align: center;"> <3 </h2>
  </body>
 </html>
